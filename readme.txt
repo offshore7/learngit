@@ -7,3 +7,4 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 
 try no-ff (fast forward)
+git  bug fixed here.
